@@ -1,4 +1,4 @@
-Devops - streamlines /sections
+Devops - streamlines /sections uhhjjaecnlnacob
 -----------------------------
 1) Build and deployment/Release management team : ex : configure pipeline
 
